@@ -1,0 +1,20 @@
+/* Created by: Lily C
+* Created on: Feb 16 2023
+* This CSS file defines the style for index.html
+* ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+   background-color:paleturquoise;
+}
+h1 {
+
+  background-color: rgb(red, green, blue);
+  color: hsl(hue, saturation, lightness);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #ff00ff;
+}
