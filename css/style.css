@@ -7,7 +7,8 @@
 body {
   background-color: #dec8ab;
 }
-h1 {
+h1 
+{
   background-color: rgb(206 170 136);
   color: hsl(271deg 233% 232%);
   padding: "40"px;
