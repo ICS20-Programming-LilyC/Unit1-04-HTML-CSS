@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-  background-color:  rgb(244 87 90);
+  background-color: rgb(244 87 90);
   color: hsl(271deg 233% 232%); 
   padding: "40"px;
   text-align: center;
@@ -19,7 +19,7 @@ p {
   background-color: #d27979;
 }
 
-ul{ 
+ul {
   background-color: rgb(109 126 162);
   color: hsl(233deg 59% 51%);
   padding: 40px;
@@ -28,5 +28,6 @@ ul{
 tr {
   background-color: rgb(109 126 162);
   color: hsl(233deg 59% 51%);
-  padding: 40px; 
+  padding: 40px;
+  
 }
