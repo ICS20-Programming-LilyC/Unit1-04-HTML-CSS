@@ -1,20 +1,32 @@
 /* Created by: Lily C
 * Created on: Feb 16 2023
-* This CSS file defines the style for more_style.htm
+* This CSS file defines the style for more_style.html
 * ICS2O-Unit1-04-HTML-CSS
 */
 
 body {
-   background-color:#ff8f05;
+   background-color: #9a8c98;
 }
 h1 {
 
-  background-color: rgb(206, 170, 136);
+  background-color:  rgb(244, 87, 90);
   color: hsl(hue, saturation, lightness);
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #d2ad83;
+  background-color: #d27979;
+}
+
+ul{
+  background-color:  rgb(109, 126, 162);
+  color: hsl(233, 59%, 51%);
+  padding: 40px;
+}
+
+tr {
+  background-color:  rgb(109, 126, 162);
+  color: hsl(233, 59%, 51%);
+  padding: 40px; 
 }
